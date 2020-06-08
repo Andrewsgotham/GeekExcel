@@ -1,7 +1,7 @@
 ---
 ID: 7759
 post_title: >
-  Simple Shortcut to Create a New workbook
+  Simple Shortcut to Create a New Workbook
   in Excel 365!!
 author: Alice
 post_excerpt: ""

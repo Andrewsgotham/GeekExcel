@@ -21,7 +21,7 @@ In this article, you will learn the shortcut to create a new workbook in Excel 3
 </ul>
 <h2 id="1">Shortcut Key:</h2>
 Using these shortcut keys you can create a new workbook in Windows and MAC Systems.
-<span>
+<div>
 [su_table]
 <table>
 <tbody>
@@ -47,7 +47,7 @@ Using these shortcut keys you can create a new workbook in Windows and MAC Syste
 </tbody>
 </table>
 [/su_table]
-</span>
+</div>
 <h2 id="2">Workbook Description:</h2>
 The workbook is a collection of one or more worksheets in a single file.
 <h2 id="3">Closure:</h2>

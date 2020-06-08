@@ -1,6 +1,6 @@
 ---
 ID: 7832
-post_title: Shortcut to Save workbook in Excel 365
+post_title: Shortcut to Save Workbook in Excel 365
 author: Alice
 post_excerpt: ""
 layout: post
@@ -15,7 +15,7 @@ In this article, you will learn how to Save the Workbook in Excel 365 by using s
 <ul>
  	<li><strong><a href="#1">Shortcut Key</a></strong></li>
  	<li><strong><a href="#2">Workbook Explanation</a></strong></li>
- 	<li><strong><a href="3">closure</a></strong></li>
+ 	<li><strong><a href="#3">closure</a></strong></li>
 </ul>
 <h2 id="1">Shortcut Key:</h2>
 Let us see the Shortcuts to Save a Workbook in Excel for both Windows and Mac Systems.

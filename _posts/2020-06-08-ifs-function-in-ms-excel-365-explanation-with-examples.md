@@ -76,7 +76,7 @@ Let's look at some examples of this function and explore how it works in Micros
 
 [caption id="attachment_7730" align="aligncenter" width="545"]<img class="size-full wp-image-7730" src="https://geekexcel.com/wp-content/uploads/2020/06/ifs8.png" alt="Example 3 - Output" width="545" height="312" /> Example 3 - Output[/caption]</li>
 </ul>
-<h2 id="4"><strong>Verdict:</strong></h2>
+<h2 id="4"><strong>A Brief Synopsis:</strong></h2>
 In the above short article, we have described the explanation, basic syntax, and usage of the <strong>IFS</strong> <strong>function</strong> with the examples. Drop your valuable <strong>queries/feedback</strong> in the below comment section. Thanks for visiting <strong><a href="https://geekexcel.com/">Geek Excel</a></strong> Keep Learning with us!!
 <h2>Related Articles:</h2>
 <ul>

@@ -10,6 +10,8 @@ published: true
 post_date: 2020-06-09 13:40:17
 ---
 <a href="https://geekexcel.com/">Excel</a> is one of the most famous software used by many peoples, users &amp; many corporate all around the world. Knowing Excel shortcuts will help you to use <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><strong>Excel software</strong></a> more efficiently. In this article, we list the <strong>222+ Keyboard shortcuts</strong> of Excel software on the <strong>Windows system</strong>.
+<h2>Download 220+ Excel Shortcuts PDF:</h2>
+[su_button url="https://geekexcel.com/wp-content/uploads/2020/06/222-EXCEL-SHORTCUTS-For-Windows-OS-Updated-2020-Version-Geek-Excel-Become-an-Excel-Geek.pdf" target="blank" style="3d" wide="yes" center="yes" icon="icon: file-pdf-o" download="download"]Excel Shortcut PDF Download[/su_button]
 <h2>File Options Excel Shortcuts:</h2>
 [su_table]
 <table>

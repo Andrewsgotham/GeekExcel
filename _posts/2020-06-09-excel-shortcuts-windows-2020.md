@@ -5,7 +5,7 @@ author: Jonathan Andrews
 post_excerpt: ""
 layout: post
 permalink: >
-  https://geekexcel.com/excel-shortcuts-2020/
+  https://geekexcel.com/excel-shortcuts-windows-2020/
 published: true
 post_date: 2020-06-09 13:40:17
 ---

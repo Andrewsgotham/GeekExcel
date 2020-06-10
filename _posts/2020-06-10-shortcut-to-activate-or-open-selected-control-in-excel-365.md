@@ -30,7 +30,7 @@ You can quickly <strong>Activate or Open Selected Control</strong> in Excel for 
 <td>Windows Shortcut</td>
 </tr>
 <tr>
-<td style="display: flex;"><span class="key-flex"><span class="win-key"><span class="custom-span-key">space</span></span></span></td>
+<td style="display: flex;"><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">space</span></span></span></td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +43,7 @@ You can quickly <strong>Activate or Open Selected Control</strong> in Excel for 
 <td>MAC Shortcut</td>
 </tr>
 <tr>
-<td style="display: flex;"><span class="mac-key"><span class="custom-span-key">space</span></span></td>
+<td style="display: flex;"><span class="mac-key" style="width: 120px;"><span class="custom-span-key">space</span></span></td>
 </tr>
 </tbody>
 </table>

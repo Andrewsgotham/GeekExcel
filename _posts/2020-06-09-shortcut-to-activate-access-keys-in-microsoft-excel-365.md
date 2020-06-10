@@ -12,7 +12,7 @@ published: true
 post_date: 2020-06-09 17:28:36
 ---
 <h2>Shortcut to Activate Access Keys in Excel:</h2>
-In this article, we are going to see the <strong>Shortcut Key to Activate all the Access Keys</strong> in Microsoft Excel 356.
+In this article, we are going to see the <strong>Shortcut Key to Activate all the Access Keys</strong> in Microsoft Excel 365.
 <h2>Jump To:</h2>
 <ul>
  	<li><strong><a href="#1">Shortcut Key</a></strong></li>
@@ -54,4 +54,4 @@ Microsoft Excel Workbook is really easy to understand. Shortcuts are really help
 
 [caption id="attachment_7923" align="aligncenter" width="556"]<img class="size-full wp-image-7923" src="https://geekexcel.com/wp-content/uploads/2020/06/Screenshot_14.png" alt="Example image of Access Keys" width="556" height="279" /> An example image of Access Keys[/caption]
 <h2 id="3">Closure:</h2>
-In this above article, we can understand Save As S<strong>hortcut to Activate Access Keys</strong> in Excel 365 for both Windows and MAC Systems. Drop your feedback in the comment section. Thanks for visiting <a href="https://geekexcel.com/">GeekExcel</a>. Keep Learning!!
+In this above article, we can understand Save As <strong>Shortcut to Activate Access Keys</strong> in Excel 365 for both Windows and MAC Systems. Drop your feedback in the comment section. Thanks for visiting <a href="https://geekexcel.com/">GeekExcel</a>. Keep Learning!!

@@ -21,9 +21,7 @@ In this article, we are going to see the Shortcuts for how to<strong> Move to Ne
 </ul>
 <h2 id="1">Shortcut Keys:</h2>
 Let us see how to <strong>Move to Next Ribbon Control</strong> using Shortcuts in Excel for both Windows and MAC.
-<div style="display: flex;">
-
-[su_table]
+<div style="display: flex;">[su_table]
 <table>
 <tbody>
 <tr>
@@ -53,4 +51,4 @@ Let us see how to <strong>Move to Next Ribbon Control</strong> using Shortcuts i
 <h2 id="2">Workbook Description:</h2>
 Microsoft Excel Workbook contains a lot of features to perform calculations, maintaining a huge amount of data like that. Using the above-mentioned Shortcut Keys we can easily move to the next cell in a row in Excel Spreadsheet.
 <h2 id="3">Closure:</h2>
-In the above article, we can understand how to <strong>Move to Next Ribbon Control</strong> in Excel 365 for both Windows and MAC Systems. Drop your feedback in the comment section. Thanks for visiting <a href="http://geekexcel.com/">GeekExcel</a>. Keep Learning!!
+In the above article, we can understand how to <strong>Move to Next Ribbon Control</strong> in Excel 365 for both Windows and MAC Systems. Drop your feedback in the <strong>comment</strong> section. Thanks for visiting <a href="http://geekexcel.com/">GeekExcel</a>. Keep Learning!!

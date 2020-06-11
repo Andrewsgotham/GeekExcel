@@ -30,7 +30,7 @@ In the given table, you will see the Shortcut Keys to Copy selected Cells for bo
 <td>Windows Shortcut</td>
 </tr>
 <tr>
-<td style="display: flex;"><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span></span><span class="key-flex"><span class="mac-key"><span class="custom-span-key">C</span></span></span></td>
+<td style="display: flex;"><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span></span><span class="key-flex"><span class="win-key"><span class="custom-span-key">C</span></span></span></td>
 </tr>
 </tbody>
 </table>

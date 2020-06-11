@@ -51,7 +51,7 @@ The below-mentioned table contains the Shortcut keys to create an Embedded Chart
 </div>
 <h2 id="2">Shortcut Description:</h2>
 <ul>
- 	<li>Here we <strong>create an Embedded Chart</strong> in using this Shortcut Keys. Refer the following image</li>
+ 	<li>Here we are going to <strong>create an Embedded Chart </strong>using the Shortcut Keys. Refer the following image</li>
 </ul>
 [caption id="attachment_8127" align="aligncenter" width="568"]<img class="size-full wp-image-8127" src="https://geekexcel.com/wp-content/uploads/2020/06/Screenshot_30.png" alt="Example Image" width="568" height="264" /> Example Image[/caption]
 <h2 id="3">Verdict:</h2>

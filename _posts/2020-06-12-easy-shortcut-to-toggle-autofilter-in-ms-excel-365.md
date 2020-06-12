@@ -54,4 +54,4 @@ These Shortcuts used to <strong>Toggle Filters</strong> on and off in Excel Spre
 
 [caption id="attachment_8169" align="aligncenter" width="265"]<img class="size-full wp-image-8169" src="https://geekexcel.com/wp-content/uploads/2020/06/Screenshot_37.png" alt="Toggle Auto filter (On and Off)" width="265" height="402" /> Toggle Auto filter (On and Off)[/caption]
 <h2 id="3">Verdict:</h2>
-This tutorial guided you to learn the <strong>Shortcut to Toggle Autofilter</strong> in MS Excel 365 for both Windows and MAC. Don't forget to share your <strong>feedback</strong> in the comment section. Thanks for visiting <a href="https://geekexcel.com/">Geek Excel.</a> Keep Learning!!
+This tutorial guided you to learn the <strong>Shortcuts to Toggle Autofilter</strong> in MS Excel 365 for both Windows and MAC. Don't forget to share your <strong>feedback</strong> in the comment section. Thanks for visiting <a href="https://geekexcel.com/">Geek Excel.</a> Keep Learning!!

@@ -52,7 +52,7 @@ Let's look at some practical examples of <strong>ASC Function</strong> and expl
  	<li>In this example, we have given the single-byte characters into the ASC function so it is not changed.</li>
  	<li>In another way, you can give the input directly into the formula as shown below.</li>
 </ul>
-<pre>=ASC(GeekExcel)</pre>
+<pre>=ASC("GeekExcel")</pre>
 <div class="mceTemp"></div>
 <strong>Example 2: Double-byte Characters</strong>
 <ul>

@@ -20,7 +20,7 @@ In this short tutorial, we will discuss the definition, syntax, and usage of the
  	<li><a href="#datedif-3"><strong>Realistic Examples of DATEDIF Function</strong></a></li>
  	<li><a href="#datedif-4"><strong>Verdict</strong></a></li>
 </ul>
-<h2 id="datedif-1"><strong>DATEDIF function - Description:</strong></h2>
+<h2 id="datedif-1"><strong>DATEDIF Function - Description:</strong></h2>
 The <strong>DATEDIF function</strong> returns the calculated <strong>difference between the two dates</strong>. If you want to evaluate the <strong>number of days, months or years</strong> between two dates, then this is the function you will be needed in Excel. It returns the output as a numerical value that indicates the number of days/months/years.
 <h2 id="datedif-2"><strong>Fundamental Syntax of DATEDIF Function:</strong></h2>
 <pre>=DATEDIF(start_date,end_date,unit)</pre>
@@ -77,7 +77,7 @@ Let's look at some examples of <b>DATEDIF function</b> and explore how to use i
  	<li>Then, you have to enter the below formula to display the output of difference in years.</li>
 </ul>
 <pre>=DATEDIF(C5,E5,"Y")</pre>
-[caption id="attachment_4133" align="aligncenter" width="754"]<img class="size-full wp-image-4133" src="https://geekexcel.com/wp-content/uploads/2020/02/Screenshot_4-11.png" alt="DATEDIF function in Excel" width="754" height="310" /> DATEDIF function in Excel[/caption]
+[caption id="attachment_4133" align="aligncenter" width="754"]<img class="size-full wp-image-4133" src="https://geekexcel.com/wp-content/uploads/2020/02/Screenshot_4-11.png" alt="DATEDIF function in Excel" width="754" height="310" /> DATEDIF Function in Excel[/caption]
 <ul>
  	<li>Click Enter to display the output in the G5 cell.
 

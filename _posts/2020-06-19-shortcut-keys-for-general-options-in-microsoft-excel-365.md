@@ -66,7 +66,7 @@ Let's take a look at some keyboard shortcuts for manipulating workbooks and rela
 </tr>
 <tr>
 <td>4</td>
-<td><a href="https://geekexcel.com/shortcuts-to-redo-last-action-in-microsoft-excel-365/"><strong>Redo Last Action</strong></a></td>
+<td><a href="https://geekexcel.com/shortcuts-to-redo-last-action-in-microsoft-excel-365/"><strong>Redo the Last Action</strong></a></td>
 <td style="display: flex;"><span class="custom-table custom-table1" style="display: flex;"><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span>
 </span><span class="key-flex"><span class="win-key"><span class="custom-span-key">Y</span></span>
 </span>
@@ -92,7 +92,7 @@ Let's take a look at some keyboard shortcuts for manipulating workbooks and rela
 </tr>
 <tr>
 <td>6</td>
-<td><a href="https://geekexcel.com/shortcut-keys-to-repeat-last-action-in-microsoft-excel-365/"><strong>Repeat last Action</strong></a></td>
+<td><a href="https://geekexcel.com/shortcut-keys-to-repeat-last-action-in-microsoft-excel-365/"><strong>Repeat the last Action</strong></a></td>
 <td style="display: flex;"><span class="custom-table custom-table1" style="display: flex;"><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">F4</span></span>
 </span>
 </span>
@@ -184,7 +184,7 @@ Let's take a look at some keyboard shortcuts for manipulating workbooks and rela
 </tr>
 <tr>
 <td>13</td>
-<td><a href="https://geekexcel.com/quick-shortcut-to-find-previous-match-in-microsoft-excel-365/"><strong>Find Previous Match</strong></a></td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-find-previous-match-in-microsoft-excel-365/"><strong>Find the Previous Match</strong></a></td>
 <td style="display: flex;"><span class="custom-table custom-table1" style="display: flex;"><span class="key-flex"><span class="win-key" style="width: 80px;"><span class="custom-span-key">Ctrl</span></span><span class="key-flex"><span class="win-key" style="width: 80px;"><span class="custom-span-key">Shift</span></span>
 </span>
 </span><span class="key-flex"><span class="win-key"><span class="custom-span-key">F4</span></span>
@@ -199,7 +199,7 @@ Let's take a look at some keyboard shortcuts for manipulating workbooks and rela
 </tr>
 <tr>
 <td>14</td>
-<td><a href="https://geekexcel.com/shortcut-to-create-embedded-chart-in-excel-365/"><strong>Create Embedded Chart</strong></a></td>
+<td><a href="https://geekexcel.com/shortcut-to-create-embedded-chart-in-excel-365/"><strong>Create an Embedded Chart</strong></a></td>
 <td style="display: flex;"><span class="custom-table custom-table1" style="display: flex;"><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">Alt</span></span>
 </span><span class="key-flex"><span class="win-key"><span class="custom-span-key">F1</span></span>
 </span>

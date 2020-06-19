@@ -17,35 +17,35 @@ post_date: 2020-06-09 13:40:17
 <table>
 <tbody>
 <tr>
-<td>How to Create a new workbook</td>
+<td>How to <a href="https://geekexcel.com/simple-shortcut-to-create-a-new-workbook-in-excel-365/">Create a new workbook</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">n</span></span></span></td>
 </tr>
 <tr>
-<td>How to open a workbook</td>
+<td>How to <a href="https://geekexcel.com/open-a-workbook-using-shortcut-in-excel-365/">open a workbook</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">o</span></span></span></td>
 </tr>
 <tr>
-<td>How to save a workbook</td>
+<td>How to <a href="https://geekexcel.com/shortcut-to-save-workbook-in-excel-365/">save a workbook</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">s</span></span></span></td>
 </tr>
 <tr>
-<td>Save as Workbook</td>
+<td><a href="https://geekexcel.com/save-as-shortcut-in-microsoft-excel-365/">Save as Workbook</a></td>
 <td><span class="win-key"><span class="custom-span-key">F12</span></span></td>
 </tr>
 <tr>
-<td>How to print a file in Excel</td>
+<td>How to <a href="https://geekexcel.com/print-file-shortcut-in-microsoft-excel-365/">print a file in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">p</span></span></span></td>
 </tr>
 <tr>
-<td>How to open a print preview window in Excel</td>
+<td>How to <a href="https://geekexcel.com/shortcut-to-open-print-preview-window-in-excel-365/">open a print preview window in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">F12</span></span></span></td>
 </tr>
 <tr>
-<td>How to Close the current workbook</td>
+<td>How to <a href="https://geekexcel.com/shortcut-to-close-current-workbook-in-microsoft-excel-365/">Close the current workbook</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">F4</span></span></span></td>
 </tr>
 <tr>
-<td>How to Close Excel</td>
+<td>How to <a href="https://geekexcel.com/quick-shortcut-to-close-excel-file-microsoft-excel-365/">Close Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ALT</span></span> <span class="win-key"><span class="custom-span-key">F4</span></span></span></td>
 </tr>
 </tbody>
@@ -56,27 +56,27 @@ post_date: 2020-06-09 13:40:17
 <table>
 <tbody>
 <tr>
-<td>How to Expand or collapse the ribbon</td>
+<td>How to <a href="https://geekexcel.com/shortcut-keys-to-expand-or-collapse-ribbon-in-excel-365/">Expand or collapse the ribbon</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">F1</span></span></span></td>
 </tr>
 <tr>
-<td>How to Activate access keys</td>
+<td>How to <a href="https://geekexcel.com/shortcut-to-activate-access-keys-in-microsoft-excel-365/">Activate access keys</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ALT</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Move to next ribbon control</td>
+<td>How to <a href="https://geekexcel.com/shortcut-to-move-to-the-next-ribbon-control-in-microsoft-excel-365/">Move to next ribbon control</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">Tab</span></span></span></td>
 </tr>
 <tr>
-<td>How to Activate or open selected control</td>
+<td>How to <a href="https://geekexcel.com/shortcut-to-activate-or-open-selected-control-in-excel-365/">Activate or open selected control</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">Space</span></span></span></td>
 </tr>
 <tr>
-<td>How to Confirm control change</td>
+<td>How to <a href="https://geekexcel.com/shortcut-to-confirm-control-change-in-excel-365/">Confirm control change</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">Enter</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Get help on the selected control</td>
+<td>How to <a href="https://geekexcel.com/shortcut-to-get-help-on-selected-control-in-excel-365/">Get help on the selected control</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">F1</span></span></span></td>
 </tr>
 </tbody>
@@ -87,59 +87,59 @@ post_date: 2020-06-09 13:40:17
 <table>
 <tbody>
 <tr>
-<td>How to open options in Excel</td>
+<td>How to <a href="https://geekexcel.com/quick-shortcut-to-open-options-in-microsoft-excel-365/">open options in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">ALT</span></span><span class="win-key"><span class="custom-span-key">F</span></span><span class="win-key"><span class="custom-span-key">T</span></span></span></td>
 </tr>
 <tr>
-<td>How to undo the last action in Excel</td>
+<td>How to <a href="https://geekexcel.com/shortcuts-to-undo-last-action-in-microsoft-excel-365/">undo the last action in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">z</span></span></span></td>
 </tr>
 <tr>
-<td>How to redo the last action in Excel</td>
+<td>How to<a href="https://geekexcel.com/shortcuts-to-redo-last-action-in-microsoft-excel-365/"> redo the last action in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">y</span></span></span></td>
 </tr>
 <tr>
-<td>How to copy selected cells in Excel</td>
+<td>How to <a href="https://geekexcel.com/shortcut-to-copy-the-selected-cells-quickly-in-excel-365/">copy selected cells in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">c</span></span></span></td>
 </tr>
 <tr>
-<td>How to repeat the last action in Excel</td>
+<td>How to <a href="https://geekexcel.com/shortcut-keys-to-repeat-last-action-in-microsoft-excel-365/">repeat the last action in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">f4</span></span></span></td>
 </tr>
 <tr>
-<td>How to cut selected cells in Excel</td>
+<td>How to <a href="https://geekexcel.com/a-quick-shortcut-to-cut-selected-cells-in-excel-365/">cut selected cells in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">X</span></span></span></td>
 </tr>
 <tr>
-<td>How to paste content from clipboard in Excel</td>
+<td>How to <a href="https://geekexcel.com/a-simple-shortcut-to-paste-content-from-clipboard-in-excel-365/">paste content from clipboard in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">v</span></span></span></td>
 </tr>
 <tr>
-<td>How to display the paste special dialog box in Excel</td>
+<td>How to <a href="https://geekexcel.com/shortcut-to-display-the-paste-special-dialog-box-in-microsoft-excel-365/">display the paste special dialog box in Excel</a></td>
 <td style="display: flex;"><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">ALT</span><span class="custom-span-key">V</span></span></span></td>
 </tr>
 <tr>
-<td>How to display find and replace in Excel</td>
+<td>How to <a href="https://geekexcel.com/easy-shortcut-to-display-find-and-replace-in-excel-365/">display find and replace in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">f</span></span></span></td>
 </tr>
 <tr>
-<td>How to display find and replace, replace selected in Excel</td>
+<td>How to <a href="https://geekexcel.com/shortcut-to-find-and-replace-replace-selected-in-microsoft-excel-365/">display find and replace, replace selected in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">h</span></span></span></td>
 </tr>
 <tr>
-<td>How to Find the previous match in Excel</td>
+<td>How to <a href="https://geekexcel.com/quick-shortcut-to-find-previous-match-in-microsoft-excel-365/">Find the previous match in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span><span class="win-key"><span class="custom-span-key">f4</span></span></span></td>
 </tr>
 <tr>
-<td>How to Find the next match in Excel</td>
+<td>How to <a href="https://geekexcel.com/simple-shortcut-to-find-next-match-in-microsoft-excel-365/">Find the next match in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">Shift</span></span> <span class="win-key"><span class="custom-span-key">f4</span></span></span></td>
 </tr>
 <tr>
-<td>How to Create an embedded chart in Excel</td>
+<td>How to <a href="https://geekexcel.com/shortcut-to-create-embedded-chart-in-excel-365/">Create an embedded chart in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">Alt</span></span> <span class="win-key"><span class="custom-span-key">f1</span></span></span></td>
 </tr>
 <tr>
-<td>How to Create a chart in a new worksheet in Excel</td>
+<td>How to <a href="https://geekexcel.com/what-is-the-shortcut-to-create-chart-in-new-worksheet-in-excel-365/">Create a chart in a new worksheet in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">f11</span></span> </span></td>
 </tr>
 </tbody>

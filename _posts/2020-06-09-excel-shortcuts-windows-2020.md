@@ -150,35 +150,35 @@ post_date: 2020-06-09 13:40:17
 <table>
 <tbody>
 <tr>
-<td>How to insert a table in Excel</td>
+<td><a href="https://geekexcel.com/ms-excel-shortcut-to-insert-table-in-the-worksheet/">How to insert a table in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">t</span></span></span></td>
 </tr>
 <tr>
-<td>How to toggle auto filter in Excel</td>
+<td><a href="https://geekexcel.com/easy-shortcut-to-toggle-autofilter-in-ms-excel-365/">How to toggle auto filter in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span><span class="win-key"><span class="custom-span-key">l</span></span></span></td>
 </tr>
 <tr>
-<td>How to activate filter in Excel</td>
+<td><a href="https://geekexcel.com/quick-keyboard-shortcut-to-activate-filter-in-excel-365/">How to activate filter in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">↓</span></span></span></td>
 </tr>
 <tr>
-<td>How to select a table row in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-keys-to-select-table-row-in-microsoft-excel-365/">How to select a table row in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">space</span></span></span></td>
 </tr>
 <tr>
-<td>How to select the table column in Excel</td>
+<td><a href="https://geekexcel.com/easy-shortcuts-to-select-table-column-in-ms-excel-365/">How to select the table column in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">Space</span></span></span></td>
 </tr>
 <tr>
-<td>How to select a table in Excel</td>
+<td><a href="https://geekexcel.com/keyboard-shortcut-to-select-table-in-microsoft-excel-365/">How to select a table in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">a</span></span></span></td>
 </tr>
 <tr>
-<td>How to clear the slicer filter in Excel</td>
+<td><a href="https://geekexcel.com/excel-shortcut-to-clear-slicer-filter-in-worksheet/">How to clear the slicer filter in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">alt</span></span> <span class="win-key"><span class="custom-span-key">c</span></span></span></td>
 </tr>
 <tr>
-<td>How to toggle table total row in Excel</td>
+<td><a href="https://geekexcel.com/a-simple-shortcut-to-toggle-table-total-row-in-excel-365/">How to toggle table total row in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span><span class="win-key"><span class="custom-span-key">t</span></span></span></td>
 </tr>
 </tbody>
@@ -189,27 +189,27 @@ post_date: 2020-06-09 13:40:17
 <table>
 <tbody>
 <tr>
-<td>How to Drag and cut in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-keys-to-drag-and-cut-in-microsoft-excel-365/">How to Drag and cut in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">drag</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Drag and copy in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-drag-and-copy-in-ms-excel-365/">How to Drag and copy in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">drag</span></span></span></td>
 </tr>
 <tr>
-<td>How to Drag &amp; Insert in Excel</td>
+<td><a href="https://geekexcel.com/ms-excel-keyboard-shortcuts-to-drag-and-insert-in-the-worksheet/">How to Drag &amp; Insert in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">drag</span></span></span></td>
 </tr>
 <tr>
-<td>How to Drag and insert copy in Excel</td>
+<td><a href="https://geekexcel.com/a-simple-keyboard-shortcut-to-drag-and-insert-copy-in-excel-365/">How to Drag and insert copy in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">drag</span></span></span></td>
 </tr>
 <tr>
-<td>How to Drag to a worksheet in Excel</td>
+<td><a href="https://geekexcel.com/shortcuts-for-drag-to-a-worksheet-in-microsoft-excel-365/">How to Drag to a worksheet in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">drag</span></span></span></td>
 </tr>
 <tr>
-<td>How to Drag to duplicate worksheet in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-keys-to-drag-to-the-duplicate-worksheet-in-ms-excel-365/">How to Drag to duplicate worksheet in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">alt</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">drag</span></span></span></td>
 </tr>
 </tbody>
@@ -220,71 +220,71 @@ post_date: 2020-06-09 13:40:17
 <table>
 <tbody>
 <tr>
-<td>How to Move one cell right in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-to-move-one-cell-right-in-microsoft-excel-365/">How to Move one cell right in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">→</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Move one cell left in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-move-one-cell-left-in-ms-excel-365/">How to Move one cell left in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">←</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Move one cell up in Excel</td>
+<td><a href="https://geekexcel.com/a-simple-keyboard-shortcuts-to-move-one-cell-up-in-excel-365/">How to Move one cell up in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">↑</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Move one cell down in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-move-one-cell-down-in-microsoft-excel-365/">How to Move one cell down in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">↓</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Move one screen right in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-move-one-screen-right-in-ms-excel-365/">How to Move one screen right in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">alt</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">Pg.Dn</span></span></span></td>
 </tr>
 <tr>
-<td>How to Move one screen left in Excel</td>
+<td><a href="https://geekexcel.com/easy-shortcut-to-move-one-screen-left-in-microsoft-excel-365/">How to Move one screen left in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">alt</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">Pg.up</span></span></span></td>
 </tr>
 <tr>
-<td>How to Move one screen up in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-to-move-one-screen-up-in-excel-365/">How to Move one screen up in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">PG.Up</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Move one screen down in Excel</td>
+<td><a href="https://geekexcel.com/excel-keyboard-shortcut-to-move-one-screen-down-in-spreadsheet/">How to Move one screen down in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">PG.Dn</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Move to the right edge of the data region in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-move-to-right-edge-of-data-region-in-excel-365/">How to Move to the right edge of the data region in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">Ctrl</span></span> <span class="win-key"><span class="custom-span-key">→</span></span></span></td>
 </tr>
 <tr>
-<td>How to Move to the left edge of the data region in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-move-to-left-edge-of-data-region-in-ms-excel-365/">How to Move to the left edge of the data region in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">Ctrl</span></span> <span class="win-key"><span class="custom-span-key">←</span></span></span></td>
 </tr>
 <tr>
-<td>How to Move to the top edge of the data region in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-move-to-the-top-edge-of-data-region-in-excel/">How to Move to the top edge of the data region in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">Ctrl</span></span> <span class="win-key"><span class="custom-span-key">↑</span></span></span></td>
 </tr>
 <tr>
-<td>How to Move to the bottom edge of the data region in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-for-move-to-bottom-edge-of-data-region-in-excel-365/">How to Move to the bottom edge of the data region in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">Ctrl</span></span> <span class="win-key"><span class="custom-span-key">↓</span></span></span></td>
 </tr>
 <tr>
-<td>How to Move to the beginning of a row in Excel</td>
+<td><a href="https://geekexcel.com/quick-keyboard-shortcuts-for-move-to-beginning-of-row-in-ms-excel-365/">How to Move to the beginning of a row in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">Home</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Move to the last cell in a worksheet in Excel</td>
+<td><a href="https://geekexcel.com/how-to-move-to-the-last-cell-in-worksheet-using-shortcut-in-ms-excel-365/">How to Move to the last cell in a worksheet in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">end</span></span></span></td>
 </tr>
 <tr>
-<td>How to Move to the first cell in a worksheet in Excel</td>
+<td><a href="https://geekexcel.com/simple-keyboard-shortcut-to-move-to-the-first-cell-in-excel-worksheet/">How to Move to the first cell in a worksheet in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">Home</span></span></span></td>
 </tr>
 <tr>
-<td>How to Turn End mode on in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-turn-end-mode-on-in-microsoft-excel-365/">How to Turn End mode on in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">End</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Go back to hyperlink in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-for-go-back-to-hyperlink-in-ms-excel-365/">How to Go back to hyperlink in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span><span class="win-key"><span class="custom-span-key">G</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">Enter</span></span></span></td>
 </tr>
 </tbody>

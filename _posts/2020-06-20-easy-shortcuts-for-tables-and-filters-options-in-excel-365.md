@@ -81,7 +81,7 @@ Generally, keyboard shortcuts are really helpful to manage our time. The more yo
 </tr>
 <tr>
 <td>5</td>
-<td><a href="https://geekexcel.com/simple-shortcut-to-create-a-new-workbook-in-excel-365/"><strong>Select Table Column</strong></a></td>
+<td><a href="https://geekexcel.com/easy-shortcuts-to-select-table-column-in-ms-excel-365/"><strong>Select Table Column</strong></a></td>
 <td style="display: flex;"><span class="custom-table custom-table1" style="display: flex;"><span class="key-flex"><span class="win-key" style="width: 80px;"><span class="custom-span-key">ctrl</span></span>
 </span><span class="key-flex"><span class="win-key" style="width: 80px;"><span class="custom-span-key">Space</span></span>
 </span>

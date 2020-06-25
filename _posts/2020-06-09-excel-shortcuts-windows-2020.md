@@ -295,47 +295,47 @@ post_date: 2020-06-09 13:40:17
 <table>
 <tbody>
 <tr>
-<td>How to Select an entire row in Excel</td>
+<td><a href="https://geekexcel.com/easy-ms-excel-shortcut-to-select-entire-row-in-the-worksheet/">How to Select an entire row in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">space</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Select an entire column in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-select-entire-column-in-ms-excel-365/">How to Select an entire column in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">space</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Select entire worksheet in Excel</td>
+<td><a href="https://geekexcel.com/excel-keyboard-shortcut-to-select-entire-worksheet/">How to Select entire worksheet in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">a</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Add adjacent cells to selection in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-add-adjacent-cells-to-selection-in-ms-excel-365/">How to Add adjacent cells to selection in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">Shift</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">Click</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Add non-adjacent cells to selection in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-keys-to-add-non-adjacent-cells-to-selection-in-excel-365/">How to Add non-adjacent cells to selection in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">Click</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Same selection in next column in Excel</td>
+<td><a href="https://geekexcel.com/a-quick-keyboard-shortcut-for-same-selection-in-next-column/">How to Same selection in next column in Excel</a></td>
 <td>Nil</td>
 </tr>
 <tr>
-<td>How to Same selection in the previous column in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcuts-for-same-selection-in-previous-column-in-excel-365/">How to Same selection in the previous column in Excel</a></td>
 <td>Nil</td>
 </tr>
 <tr>
-<td>How to Move right between non-adjacent selections in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-move-right-between-non-adjacent-selections-in-excel/">How to Move right between non-adjacent selections in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">alt</span></span><span class="win-key"><span class="custom-span-key">→</span></span></span></td>
 </tr>
 <tr>
-<td>How to Move left between non-adjacent selections in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcuts-to-move-left-between-non-adjacent-selection-cells/">How to Move left between non-adjacent selections in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">alt</span></span><span class="win-key"><span class="custom-span-key">←</span></span></span></td>
 </tr>
 <tr>
-<td>How to Toggle add to selection mode in Excel</td>
+<td><a href="https://geekexcel.com/shortcuts-for-toggle-add-to-selection-mode-in-ms-excel-365/">How to Toggle add to selection mode in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">f8</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Cancel selection in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-to-cancel-selection-in-microsoft-excel-365/">How to Cancel selection in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">Esc</span></span> </span></td>
 </tr>
 </tbody>

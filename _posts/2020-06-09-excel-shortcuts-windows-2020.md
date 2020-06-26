@@ -346,31 +346,31 @@ post_date: 2020-06-09 13:40:17
 <table>
 <tbody>
 <tr>
-<td>How to Select an active cell only in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-keys-to-select-active-cell-only-in-excel-365/">How to Select an active cell only in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">Backspace</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Show the active cell on a worksheet in Excel</td>
+<td><a href="https://geekexcel.com/easy-shortcut-to-show-the-active-cell-on-worksheet-in-excel-365/">How to Show the active cell on a worksheet in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">Backspace</span></span></span></td>
 </tr>
 <tr>
-<td>How to Move active cell clockwise in selection in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-move-active-cell-clockwise-in-selection-in-excel-365/">How to Move active cell clockwise in selection in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">.</span></span></span></td>
 </tr>
 <tr>
-<td>How to Move active cell down in selection in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-move-active-cell-down-in-selection-in-ms-excel-365/">How to Move active cell down in selection in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">Enter</span></span></span></td>
 </tr>
 <tr>
-<td>How to Move active cell up in selection in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-to-move-active-cell-up-in-selection-in-excel-365/">How to Move active cell up in selection in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">enter</span></span></span></td>
 </tr>
 <tr>
-<td>How to Move active cell right in a selection in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-move-active-cell-right-in-a-selection-in-ms-excel-365/">How to Move active cell right in a selection in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">tab</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Move active cell left in a selection in Excel</td>
+<td><a href="https://geekexcel.com/keyboard-shortcut-to-move-the-active-cell-left-in-a-selection-in-excel-365/">How to Move active cell left in a selection in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">tab</span></span></span></td>
 </tr>
 </tbody>

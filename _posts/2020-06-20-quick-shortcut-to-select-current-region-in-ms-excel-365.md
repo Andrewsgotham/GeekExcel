@@ -54,6 +54,6 @@ The following <strong>shortcut keys are used to select the current region</stron
  	<li>This shortcut is used to <strong>select the current region</strong> in Excel.</li>
  	<li>To do this, you need to press <strong>( CTRL + A )</strong> keys and it will select the current region of Excel spreadsheet.</li>
 </ul>
-[caption id="attachment_8746" align="aligncenter" width="1365"]<img class="size-full wp-image-8746" src="https://geekexcel.com/wp-content/uploads/2020/06/Screenshot_6.png" alt="Select Current Region" width="1365" height="559" /> Select Current Region[/caption]
+[caption id="attachment_9156" align="aligncenter" width="1365"]<img class="size-full wp-image-9156" src="https://geekexcel.com/wp-content/uploads/2020/06/Screenshot_11-1.png" alt="Select the current region" width="1365" height="513" /> Select the current region[/caption]
 <h2 id="3">Verdict:</h2>
 In the above article, you can understand the <strong>shortcut keys to select the current region</strong> in Excel 365 for both the Windows and MAC devices. Kindly, share your <strong>feedback</strong> in the below comment section. <span style="font-size: 19px;">Thanks for visiting <strong><a href="https://geekexcel.com/">Geek Excel.</a></strong> Keep Learning!!</span>

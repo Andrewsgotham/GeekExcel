@@ -55,6 +55,6 @@ The below-mentioned <strong>shortcut keys are used to select the current region 
  	<li>To do this, you need to click<strong> ( CTRL + SHIFT + * )</strong> keys and it will select the region around the selected active cell.</li>
  	<li>Refer to the below image.</li>
 </ul>
-[caption id="attachment_8718" align="aligncenter" width="1365"]<img class="size-full wp-image-8718" src="https://geekexcel.com/wp-content/uploads/2020/06/Screenshot_4-1.png" alt="Select Current Region Around Active Cell" width="1365" height="546" /> Select Current Region Around Active Cell[/caption]
+[caption id="attachment_9153" align="aligncenter" width="1365"]<img class="wp-image-9153 size-full" src="https://geekexcel.com/wp-content/uploads/2020/06/Screenshot_10-1.png" alt="Select the current region around the active cell" width="1365" height="513" /> Select the current region around the active cell[/caption]
 <h2 id="3">Conclusion:</h2>
 This tutorial guided you to understand the <strong>shortcut keys to select the current region</strong> <strong>around the active cell</strong> in MS Excel 365 for both Windows and MAC Systems. Share your <strong>feedback</strong> in the comment section. <span style="font-size: 19px;">Thanks for visiting <strong><a href="https://geekexcel.com/">Geek Excel.</a></strong> Keep Learning!!</span>

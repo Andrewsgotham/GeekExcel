@@ -56,6 +56,6 @@ Here are the shortcut keys to <strong>select direct precedents</strong> in Excel
  	<li>Then you need to click <strong>( CTRL + [ ) </strong>keys, it will take you to the cells referenced in your formula.</li>
  	<li>Refer to the following example image.</li>
 </ul>
-[caption id="attachment_8752" align="aligncenter" width="985"]<img class="size-full wp-image-8752" src="https://geekexcel.com/wp-content/uploads/2020/06/ezgif.com-optimize-2-1.gif" alt="Select Direct Precedents" width="985" height="564" /> Select Direct Precedents[/caption]
+[caption id="attachment_9164" align="aligncenter" width="1114"]<img class="size-full wp-image-9164" src="https://geekexcel.com/wp-content/uploads/2020/06/ezgif.com-optimize-65.gif" alt="Select direct precedents" width="1114" height="565" /> Select direct precedents[/caption]
 <h2 id="3">Verdict:</h2>
 In this tutorial, you can clearly understand the <strong>shortcut keys to select direct precedents</strong> in Excel 365 for both the Windows and MAC devices. Drop your <strong>feedback</strong> in the comment section. <span style="font-size: 19px;">Thanks for visiting <strong><a href="https://geekexcel.com/">Geek Excel.</a></strong> Keep Learning!!</span>

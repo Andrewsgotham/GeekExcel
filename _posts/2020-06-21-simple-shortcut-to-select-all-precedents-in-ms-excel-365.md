@@ -56,6 +56,6 @@ Here are the shortcut keys to <strong>select all precedents</strong> in Excel 36
  	<li>Then you need to click <strong>( CTRL + SHIFT + { ) </strong>keys, it will select all cells that are referred to directly or indirectly by the formula in your selection.</li>
  	<li>Refer to the following example image.</li>
 </ul>
-[caption id="attachment_8757" align="aligncenter" width="343"]<img class="size-full wp-image-8757" src="https://geekexcel.com/wp-content/uploads/2020/06/ezgif.com-optimize-3-1.gif" alt="Select All Precedents" width="343" height="326" /> Select All Precedents[/caption]
+[caption id="attachment_9167" align="aligncenter" width="1049"]<img class="size-full wp-image-9167" src="https://geekexcel.com/wp-content/uploads/2020/06/ezgif.com-optimize-66.gif" alt="Select all precedents" width="1049" height="546" /> Select all precedents[/caption]
 <h2 id="3">Verdict:</h2>
 In this tutorial, you can clearly understand the <strong>shortcut keys to select all precedents</strong> in Excel 365 for both the Windows and MAC devices. Drop your <strong>feedback</strong> in the comment section. <span style="font-size: 19px;">Thanks for visiting <strong><a href="https://geekexcel.com/">Geek Excel.</a></strong> Keep Learning!!</span>

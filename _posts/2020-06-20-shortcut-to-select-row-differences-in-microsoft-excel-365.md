@@ -55,6 +55,6 @@ Here we are come up with the <strong>shortcut keys to select row differences</st
  	<li>It will select the cells which contain values that are don't match the value of the active cell in a row.</li>
  	<li>To do this, you have to click <strong>( CTRL + \ )</strong> and it will show the result as below.</li>
 </ul>
-[caption id="attachment_8742" align="aligncenter" width="538"]<img class="size-full wp-image-8742" src="https://geekexcel.com/wp-content/uploads/2020/06/eWvY0g7-Imgur.gif" alt="Select Row Differences" width="538" height="261" /> Select Row Differences[/caption]
+[caption id="attachment_9158" align="aligncenter" width="538"]<img class="size-full wp-image-9158" src="https://geekexcel.com/wp-content/uploads/2020/06/ezgif.com-optimize-63.gif" alt="Select row differences" width="538" height="244" /> Select row differences[/caption]
 <h2 id="3">Conclusion:</h2>
 In this article, you can understand the shortcut keys to<strong> select the row differences</strong> in Excel for both the Windows and MAC Systems. Drop your<strong> feedback</strong> in the comment section. <span style="font-size: 19px;">Thanks for visiting <strong><a href="https://geekexcel.com/">Geek Excel.</a></strong> Keep Learning!!</span>

@@ -55,6 +55,6 @@ Here we are come up with the <strong>shortcut keys to select column differences<
  	<li>It selects only the cells that have values different from the original active cell in the column.</li>
  	<li>To do this, you need to press <strong>( CTRL + SHIFT + | )</strong> keys and it will show the result as below.</li>
 </ul>
-[caption id="attachment_8738" align="aligncenter" width="472"]<img class="size-full wp-image-8738" src="https://geekexcel.com/wp-content/uploads/2020/06/ezgif.com-optimize-1-1.gif" alt="Select Column Differences" width="472" height="423" /> Select Column Differences[/caption]
+[caption id="attachment_9161" align="aligncenter" width="347"]<img class="size-full wp-image-9161" src="https://geekexcel.com/wp-content/uploads/2020/06/ezgif.com-optimize-64.gif" alt="Select column differences" width="347" height="262" /> Select column differences[/caption]
 <h2>Conclusion:</h2>
 In this article, you can understand the <strong>shortcut keys to select column differences</strong> in Excel for both Windows and MAC. Drop your<strong> feedback</strong> in the comment section. <span style="font-size: 19px;">Thanks for visiting <strong><a href="https://geekexcel.com/">Geek Excel.</a></strong> Keep Learning!!</span>

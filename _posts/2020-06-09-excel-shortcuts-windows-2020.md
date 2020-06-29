@@ -381,67 +381,67 @@ post_date: 2020-06-09 13:40:17
 <table>
 <tbody>
 <tr>
-<td>How to Extend selection by one cell right in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-extend-selection-by-one-cell-right-in-ms-excel-365/">How to Extend selection by one cell right in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">→</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Extend selection by one cell left in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-keys-to-extend-selection-by-one-cell-left-in-excel-365/">How to Extend selection by one cell left in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">←</span></span></span></td>
 </tr>
 <tr>
-<td>How to Extend selection by one cell up in Excel</td>
+<td><a href="https://geekexcel.com/excel-shortcut-to-extend-selection-by-one-cell-up-in-worksheet/">How to Extend selection by one cell up in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">↑</span></span></span></td>
 </tr>
 <tr>
-<td>How to Extend selection by one cell down in Excel</td>
+<td><a href="https://geekexcel.com/a-simple-shortcut-to-extend-selection-by-one-cell-down-in-excel/">How to Extend selection by one cell down in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">↓</span></span></span></td>
 </tr>
 <tr>
-<td>How to Extend the selection to the last cell right in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-extend-the-selection-to-the-last-cell-right-in-ms-excel-365/">How to Extend the selection to the last cell right in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span><span class="win-key"><span class="custom-span-key">→</span></span></span></td>
 </tr>
 <tr>
-<td>How to Extend the selection to the last cell left in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-to-extend-the-selection-to-the-last-cell-left-in-excel-365/">How to Extend the selection to the last cell left in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span><span class="win-key"><span class="custom-span-key">←</span></span></span></td>
 </tr>
 <tr>
-<td>How to Extend the selection to the last cell up in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-extend-the-selection-to-the-last-cell-up-in-ms-excel-365/">How to Extend the selection to the last cell up in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span><span class="win-key"><span class="custom-span-key">↑</span></span></span></td>
 </tr>
 <tr>
-<td>How to Extend the selection to the last cell down in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-extend-the-selection-to-the-last-cell-down-in-microsoft-excel/">How to Extend the selection to the last cell down in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span><span class="win-key"><span class="custom-span-key">↓</span></span></span></td>
 </tr>
 <tr>
-<td>How to Extend selection up one screen in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-extend-selection-up-one-screen-in-excel-worksheet/">How to Extend selection up one screen in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">pg.up</span></span></span></td>
 </tr>
 <tr>
-<td>How to Extend selection down one screen in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-extend-selection-down-one-screen-in-excel-365/">How to Extend selection down one screen in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">pg.dn</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Extend selection right one screen in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-extend-selection-right-one-screen-in-excel-365/">How to Extend selection right one screen in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">alt</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">pg.dn</span></span></span></td>
 </tr>
 <tr>
-<td>How to Extend selection left one screen in Excel</td>
+<td><a href="https://geekexcel.com/easy-shortcut-to-extend-selection-left-one-screen-in-ms-excel-365/">How to Extend selection left one screen in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">alt</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">pg.up</span></span></span></td>
 </tr>
 <tr>
-<td>How to Extend selection to start of the row in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-extend-selection-to-start-of-row-in-ms-excel-365/">How to Extend selection to start of the row in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">home</span></span></span></td>
 </tr>
 <tr>
-<td>How to Extend selection to the first cell in a worksheet in Excel</td>
+<td><a href="https://geekexcel.com/ms-excel-shortcut-to-extend-selection-to-first-cell-in-worksheet/">How to Extend selection to the first cell in a worksheet in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">home</span></span></span></td>
 </tr>
 <tr>
-<td>How to Extend selection to last cell in the worksheet in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-extend-selection-to-last-cell-in-excel-worksheet/">How to Extend selection to last cell in the worksheet in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">end</span></span></span></td>
 </tr>
 <tr>
-<td>How to Toggle extend selection mode in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-to-toggle-extend-selection-mode-in-excel-365/">How to Toggle extend selection mode in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">f8</span></span></span></td>
 </tr>
 </tbody>

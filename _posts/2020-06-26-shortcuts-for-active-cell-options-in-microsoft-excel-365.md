@@ -29,7 +29,7 @@ Using shortcuts makes you more efficient at doing certain work on a computer. Th
 <td>1</td>
 <td><a href="https://geekexcel.com/shortcut-keys-to-select-active-cell-only-in-excel-365/"><strong>Select Active Cell Only in Excel</strong></a></td>
 <td style="display: flex;"><span class="custom-table custom-table1" style="display: flex;"><span class="key-flex"><span class="win-key" style="width: 80px;"><span class="custom-span-key">Shift</span></span>
-</span><span class="key-flex"><span class="win-key" style="width: 180px;"><span class="custom-span-key">Backspace</span></span>
+</span><span class="key-flex"><span class="win-key" style="width: 180px;"><span class="custom-span-key">backspace</span></span>
 </span>
 </span>
 <span style="display: flex;"><span class="key-flex"><span class="mac-key"><span class="custom-span-key">⇧</span></span>

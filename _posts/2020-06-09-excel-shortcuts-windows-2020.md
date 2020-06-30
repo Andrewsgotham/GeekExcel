@@ -452,51 +452,51 @@ post_date: 2020-06-09 13:40:17
 <table>
 <tbody>
 <tr>
-<td>How to Display '<strong>Go To</strong>' dialog box in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-keys-to-display-go-to-dialog-box-in-ms-excel-365/">How to Display '<strong>Go-To</strong>' dialog box in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">g</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Select cells with comments in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-select-cells-with-comments-in-microsoft-excel-365/">How to Select cells with comments in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">o</span></span></span></td>
 </tr>
 <tr>
-<td>How to Select the current region around the active cell in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-select-current-region-around-active-cell-in-excel-365/">How to Select the current region around the active cell in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">*</span></span></span></td>
 </tr>
 <tr>
-<td>How to Select the current region in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-select-current-region-in-ms-excel-365/">How to Select the current region in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">a</span></span></span></td>
 </tr>
 <tr>
-<td>How to Select the current array in Excel</td>
+<td><a href="https://geekexcel.com/easy-keyboard-shortcuts-to-select-current-array-in-excel-365/">How to Select the current array in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">/</span></span></span></td>
 </tr>
 <tr>
-<td>How to Select row differences in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-select-row-differences-in-microsoft-excel-365/">How to Select row differences in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">\</span></span></span></td>
 </tr>
 <tr>
-<td>How to Select column differences in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-to-select-column-differences-in-microsoft-excel-365/">How to Select column differences in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">|</span></span></span></td>
 </tr>
 <tr>
-<td>How to Select direct precedents in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-select-direct-precedents-in-ms-excel-365/">How to Select direct precedents in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">[</span></span></span></td>
 </tr>
 <tr>
-<td>How to Select all precedents in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-to-select-all-precedents-in-ms-excel-365/">How to Select all precedents in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">{</span></span></span></td>
 </tr>
 <tr>
-<td>How to Select direct dependents in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-select-direct-dependents-in-excel-365/">How to Select direct dependents in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">]</span></span></span></td>
 </tr>
 <tr>
-<td>How to Select all dependents in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-select-all-dependents-in-microsoft-excel-365/">How to Select all dependents in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">}</span></span></span></td>
 </tr>
 <tr>
-<td>How to Select visible cells only in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-select-visible-cells-only-in-microsoft-excel-365/">How to Select visible cells only in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">alt</span></span> <span class="win-key"><span class="custom-span-key">;</span></span></span></td>
 </tr>
 </tbody>

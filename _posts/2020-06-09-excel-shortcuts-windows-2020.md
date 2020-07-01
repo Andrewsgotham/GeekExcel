@@ -507,63 +507,63 @@ post_date: 2020-06-09 13:40:17
 <table>
 <tbody>
 <tr>
-<td>How to Edit the active cell in Excel</td>
+<td><a href="https://geekexcel.com/simple-keyboard-shortcuts-to-edit-the-active-cell-in-ms-excel-365/">How to Edit the active cell in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">f2</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Insert or edit the comment in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-to-insert-or-edit-comment-in-excel-365/">How to Insert or edit the comment in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">f2</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Cancel entry in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-cancel-entry-in-microsoft-excel-365/">How to Cancel entry in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">Esc</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Select one character right in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-select-one-character-right-in-ms-excel-365/">How to Select one character right in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">→</span></span></span></td>
 </tr>
 <tr>
-<td>How to Select one character left in Excel</td>
+<td><a href="https://geekexcel.com/easy-shortcut-to-select-one-character-left-in-excel-365/">How to Select one character left in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">←</span></span></span></td>
 </tr>
 <tr>
-<td>How to Move one word right in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-to-move-one-word-right-in-excel-365/">How to Move one word right in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">→</span></span></span></td>
 </tr>
 <tr>
-<td>How to Move one word left in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-move-one-word-left-in-microsoft-excel-365/">How to Move one word left in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">←</span></span></span></td>
 </tr>
 <tr>
-<td>How to Select one word right in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-select-one-word-right-in-microsoft-excel-365/">How to Select one word right in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">→</span></span></span></td>
 </tr>
 <tr>
-<td>How to Select one word left in Excel</td>
+<td><a href="https://geekexcel.com/easy-keyboard-shortcuts-to-select-one-word-left-in-ms-excel-365/">How to Select one word left in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">←</span></span></span></td>
 </tr>
 <tr>
-<td>How to Select to the beginning of a cell in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-for-select-to-the-beginning-of-cell-in-ms-excel-365/">How to Select to the beginning of a cell in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">Home</span></span></span></td>
 </tr>
 <tr>
-<td>How to Select to end of the cell in Excel</td>
+<td><a href="https://geekexcel.com/quick-excel-shortcut-for-select-to-end-of-cell-in-a-worksheet/">How to Select to end of the cell in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">end</span></span></span></td>
 </tr>
 <tr>
-<td>How to Delete to end of a line in Excel</td>
+<td><a href="https://geekexcel.com/shortcuts-for-delete-to-the-end-of-line-in-ms-excel-365/">How to Delete to end of a line in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">delete</span></span></span></td>
 </tr>
 <tr>
-<td>How to Delete the character to the left of the cursor in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-delete-character-to-the-left-of-cursor-in-excel-365/">How to Delete the character to the left of the cursor in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">backspace</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Delete the character to the right of the cursor in Excel</td>
+<td><a href="https://geekexcel.com/easy-shortcut-to-delete-the-character-to-the-right-of-cursor-in-excel-365/">How to Delete the character to the right of the cursor in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">delete</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Start a new line in the same cell in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-to-start-a-new-line-in-the-same-cell-in-ms-excel-365/">How to Start a new line in the same cell in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">alt</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">enter</span></span></span></td>
 </tr>
 </tbody>

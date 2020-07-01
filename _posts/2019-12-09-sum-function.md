@@ -56,6 +56,6 @@ The output is,
 
 The output "439" is printed in cell B9. This is how you can use the Sum function in Excel.
 <h2 id="sum-function-videos&quot;">Video Explanation:</h2>
-<iframe style="width: -webkit-fill-available; height: -webkit-fill-available;" src="https://www.microsoft.com/en-us/videoplayer/embed/RE25Ncp?pid=ocpVideo0-innerdiv-oneplayer&amp;jsapi=true&amp;postJsllMsg=true&amp;maskLevel=20&amp;market=en-us" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe>
+https://www.youtube.com/watch?v=VXFMKWnl7No
 <h2 id="sum-function-verdict">Verdict:</h2>
 This section is the wrap of the tutorial. I hope the tutorial will help you understand about using the <strong>SUM function in Excel</strong>. If you have any queries and then add the comment below.

@@ -574,59 +574,59 @@ post_date: 2020-06-09 13:40:17
 <table>
 <tbody>
 <tr>
-<td>How to Enter and move down in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-enter-and-move-down-in-microsoft-excel-365/">How to Enter and move down in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">Enter</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Enter and move right in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-to-enter-and-move-right-in-ms-excel-365/">How to Enter and move right in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">tab</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Enter and move left in Excel</td>
+<td><a href="https://geekexcel.com/simple-keyboard-shortcut-to-enter-and-move-left-in-ms-excel-365/">How to Enter and move left in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">tab</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Complete entry and stay in the same cell in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-complete-entry-and-stay-in-the-same-cell-in-excel-365/">How to Complete entry and stay in the same cell in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">Enter</span></span></span></td>
 </tr>
 <tr>
-<td>How to Enter the same data in multiple cells in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-enter-same-data-in-multiple-cells-in-excel-365/">How to Enter the same data in multiple cells in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">Enter</span></span></span></td>
 </tr>
 <tr>
-<td>How to Insert a current date in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-to-insert-current-date-in-microsoft-excel-365/">How to Insert a current date in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">;</span></span></span></td>
 </tr>
 <tr>
-<td>How to Insert current time in Excel</td>
+<td><a href="https://geekexcel.com/easy-keyboard-shortcut-to-insert-current-time-in-excel-365/">How to Insert current time in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">:</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Fill down from cell above in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-to-fill-down-from-cell-above-in-ms-excel-365/">How to Fill down from cell above in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">D</span></span></span></td>
 </tr>
 <tr>
-<td>How to Fill right from cell left in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-fill-down-from-the-cell-left-in-excel-365/">How to Fill right from cell left in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">r</span></span></span></td>
 </tr>
 <tr>
-<td>How to Copy a formula from the cell above in Excel</td>
+<td><a href="https://geekexcel.com/shortcuts-to-copy-formula-from-cell-above-in-ms-excel-365/">How to Copy a formula from the cell above in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">'</span></span></span></td>
 </tr>
 <tr>
-<td>How to Copy value from the cell above in Excel</td>
+<td><a href="https://geekexcel.com/easy-shortcut-to-copy-value-from-the-cell-above-in-microsoft-excel-365/">How to Copy value from the cell above in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span><span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">"</span></span></span></td>
 </tr>
 <tr>
-<td>How to Add hyperlink in Excel</td>
+<td><a href="https://geekexcel.com/quick-keyboard-shortcut-to-add-hyperlink-in-ms-excel-365/">How to Add hyperlink in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">k</span></span></span></td>
 </tr>
 <tr>
-<td>How to Display AutoComplete list in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-to-display-auto-complete-list-in-ms-excel-365/">How to Display AutoComplete list in Excel</a></td>
 <td><span class="key-flex"><span class="win-key"><span class="custom-span-key">alt</span></span> <span class="win-key"><span class="custom-span-key">↓</span></span></span></td>
 </tr>
 <tr>
-<td>How to Flash fill in Excel</td>
+<td><a href="https://geekexcel.com/easy-keyboard-shortcut-to-flash-fill-in-microsoft-excel-365/">How to Flash fill in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">e</span></span></span></td>
 </tr>
 </tbody>

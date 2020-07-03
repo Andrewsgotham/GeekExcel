@@ -637,39 +637,39 @@ post_date: 2020-06-09 13:40:17
 <table>
 <tbody>
 <tr>
-<td>How to Format anything in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-format-almost-anything-in-microsoft-excel-365/">How to Format anything in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">1</span></span></span></td>
 </tr>
 <tr>
-<td>How to Display Format Cells with Font tab selected in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-display-format-cells-with-font-tab-selected-in-ms-excel-365/">How to Display Format Cells with Font tab selected in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key" style="width: 120px;"><span class="custom-span-key">shift</span></span> <span class="win-key"><span class="custom-span-key">F</span></span></span></td>
 </tr>
 <tr>
-<td>How to Apply or remove bold formatting in Excel</td>
+<td><a href="https://geekexcel.com/simple-shortcut-to-apply-or-remove-bold-formatting-in-excel-365/">How to Apply or remove bold formatting in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">b</span></span> </span></td>
 </tr>
 <tr>
-<td>How to Apply or remove italic formatting in Excel</td>
+<td><a href="https://geekexcel.com/easy-shortcut-to-apply-or-remove-italic-formatting-in-excel-365/">How to Apply or remove italic formatting in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">I</span></span></span></td>
 </tr>
 <tr>
-<td>How to Apply or remove underscoring in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-apply-or-remove-underscore-in-ms-excel-365/">How to Apply or remove underscoring in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">u</span></span></span></td>
 </tr>
 <tr>
-<td>How to Apply or remove strikethrough formatting in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-apply-or-remove-strike-through-formatting-in-excel-365/">How to Apply or remove strikethrough formatting in Excel</a></td>
 <td><span class="key-flex"><span class="win-key" style="width: 120px;"><span class="custom-span-key">ctrl</span></span> <span class="win-key"><span class="custom-span-key">5</span></span></span></td>
 </tr>
 <tr>
-<td>How to Add or remove the shadow font style in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-add-or-remove-the-shadow-font-style-in-excel-365/">How to Add or remove the shadow font style in Excel</a></td>
 <td>Nil</td>
 </tr>
 <tr>
-<td>How to Add or remove the outline font style in Excel</td>
+<td><a href="https://geekexcel.com/easy-shortcut-to-add-or-remove-the-outline-font-style-in-excel-365/">How to Add or remove the outline font style in Excel</a></td>
 <td>Nil</td>
 </tr>
 <tr>
-<td>How to Align center in Excel</td>
+<td><a href="https://geekexcel.com/quick-shortcut-to-align-center-in-microsoft-excel-365/">How to Align center in Excel</a></td>
 <td style="display: flex;"><span class="key-flex">
 <span class="win-key"><span class="custom-span-key">alt</span></span>
 <span class="win-key"><span class="custom-span-key">h</span></span>
@@ -678,7 +678,7 @@ post_date: 2020-06-09 13:40:17
 </span></td>
 </tr>
 <tr>
-<td>How to Align left in Excel</td>
+<td><a href="https://geekexcel.com/easy-keyboard-shortcut-to-align-left-in-ms-excel-365/">How to Align left in Excel</a></td>
 <td style="display: flex;"><span class="key-flex">
 <span class="win-key"><span class="custom-span-key">alt</span></span>
 <span class="win-key"><span class="custom-span-key">h</span></span>
@@ -687,7 +687,7 @@ post_date: 2020-06-09 13:40:17
 </span></td>
 </tr>
 <tr>
-<td>How to Align right in Excel</td>
+<td><a href="https://geekexcel.com/simple-keyboard-shortcut-to-align-right-in-ms-excel-365/">How to Align right in Excel</a></td>
 <td style="display: flex;"><span class="key-flex">
 <span class="win-key"><span class="custom-span-key">alt</span></span>
 <span class="win-key"><span class="custom-span-key">h</span></span>
@@ -696,7 +696,7 @@ post_date: 2020-06-09 13:40:17
 </span></td>
 </tr>
 <tr>
-<td>How to Indent in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-keys-for-indent-option-in-microsoft-excel-365/">How to Indent in Excel</a></td>
 <td style="display: flex;"><span class="key-flex">
 <span class="win-key"><span class="custom-span-key">alt</span></span>
 <span class="win-key"><span class="custom-span-key">h</span></span>
@@ -704,7 +704,7 @@ post_date: 2020-06-09 13:40:17
 </span></td>
 </tr>
 <tr>
-<td>How to Remove indent in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-key-to-remove-indent-in-microsoft-excel-365/">How to Remove indent in Excel</a></td>
 <td style="display: flex;"><span class="key-flex">
 <span class="win-key"><span class="custom-span-key">alt</span></span>
 <span class="win-key"><span class="custom-span-key">h</span></span>
@@ -712,7 +712,7 @@ post_date: 2020-06-09 13:40:17
 </span></td>
 </tr>
 <tr>
-<td>How to Increase font size one step in Excel</td>
+<td><a href="https://geekexcel.com/shortcut-to-increase-font-size-one-step-in-ms-excel-365/">How to Increase font size one step in Excel</a></td>
 <td style="display: flex;"><span class="key-flex">
 <span class="win-key"><span class="custom-span-key">alt</span></span>
 <span class="win-key"><span class="custom-span-key">h</span></span>
@@ -720,7 +720,7 @@ post_date: 2020-06-09 13:40:17
 </span></td>
 </tr>
 <tr>
-<td>How to Increase font size one step in Excel</td>
+<td><a href="https://geekexcel.com/easy-shortcut-to-decrease-font-size-one-step-in-microsoft-excel/">How to Decrease font size one step in Excel</a></td>
 <td style="display: flex;"><span class="key-flex">
 <span class="win-key"><span class="custom-span-key">alt</span></span>
 <span class="win-key"><span class="custom-span-key">h</span></span>
